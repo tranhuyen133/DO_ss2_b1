@@ -1,0 +1,6 @@
+Đặt 2 ảnh chụp màn hình của bạn vào thư mục này với đúng tên:
+
+1. droplet-console.png  -> ảnh trang quản lý Droplet trên DigitalOcean Console
+2. ssh-login.png        -> ảnh log kết nối SSH thành công từ Terminal
+
+Sau khi thêm ảnh xong, bạn có thể xóa file hướng dẫn này.
